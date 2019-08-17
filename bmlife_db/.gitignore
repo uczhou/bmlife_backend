@@ -1,0 +1,7 @@
+.idea
+.idea/*
+.idea/*.xml
+*.pyc
+.idea/workspace.xml
+*.csv
+*.json
