@@ -13,3 +13,7 @@ This document contains 3 projects:
 
 ### Usage
 Check each README.md file in respective document.
+
+### Authors
+uczhou
+zijiazhai
