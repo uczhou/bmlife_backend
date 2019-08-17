@@ -1,6 +1,6 @@
 ## BMLIFE Backend
 ### Description
-This project is an amateur project. The frontend is iOS app, which can be downloaded from App Store by searching 'bmlife'.
+This project is an amateur project. The frontend is [iOS app](https://github.com/zijiazhai/BMLF), which can be downloaded from App Store by searching 'bmlife'.
 
 The crime data is downloaded from public database. Total crime data is around <strong>15G</strong> and more than <strong>100 M lines</strong>.
 
