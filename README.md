@@ -15,5 +15,5 @@ This document contains 3 projects:
 Check each README.md file in respective document.
 
 ### Authors
-uczhou
-zijiazhai
+[uczhou](https://github.com/uczhou)
+[zijiazhai](https://github.com/zijiazhai)
